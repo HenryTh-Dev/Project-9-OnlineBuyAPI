@@ -1,0 +1,17 @@
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\obj\Debug\net6.0\OnlineBuy.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\obj\Debug\net6.0\OnlineBuy.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\obj\Debug\net6.0\OnlineBuy.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\obj\Debug\net6.0\OnlineBuy.Infra.Data.AssemblyInfo.cs
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\obj\Debug\net6.0\OnlineBuy.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\bin\Debug\net6.0\OnlineBuy.Infra.Data.deps.json
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\bin\Debug\net6.0\OnlineBuy.Infra.Data.runtimeconfig.json
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\bin\Debug\net6.0\OnlineBuy.Infra.Data.dll
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\bin\Debug\net6.0\OnlineBuy.Infra.Data.pdb
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\bin\Debug\net6.0\OnlineBuy.Domain.dll
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\bin\Debug\net6.0\OnlineBuy.Domain.pdb
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\obj\Debug\net6.0\OnlineBuy.Infra.Data.csproj.CopyComplete
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\obj\Debug\net6.0\OnlineBuy.Infra.Data.dll
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\obj\Debug\net6.0\refint\OnlineBuy.Infra.Data.dll
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\obj\Debug\net6.0\OnlineBuy.Infra.Data.pdb
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\obj\Debug\net6.0\OnlineBuy.Infra.Data.genruntimeconfig.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Infra.Data\obj\Debug\net6.0\ref\OnlineBuy.Infra.Data.dll

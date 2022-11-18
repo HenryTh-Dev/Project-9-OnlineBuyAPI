@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBuy.Domain", "OnlineBuy.Domain\OnlineBuy.Domain.csproj", "{A6AEBEA2-B601-4523-81BF-AAE9D6794D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBuy.Infra.Data", "OnlineBuy.Infra.Data\OnlineBuy.Infra.Data.csproj", "{DBC1A0AB-8CA2-45C5-8975-18E8EA80E32F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A6AEBEA2-B601-4523-81BF-AAE9D6794D50} = {A6AEBEA2-B601-4523-81BF-AAE9D6794D50}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBuy.Application", "OnlineBuy.Application\OnlineBuy.Application.csproj", "{9F2BD574-71F9-4E26-B15C-35674ED90283}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A6AEBEA2-B601-4523-81BF-AAE9D6794D50} = {A6AEBEA2-B601-4523-81BF-AAE9D6794D50}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBuy.Infra.IoC", "OnlineBuy.Infra.IoC\OnlineBuy.Infra.IoC.csproj", "{8A143FCA-2D66-47C2-98B4-9213FE89B15E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9F2BD574-71F9-4E26-B15C-35674ED90283} = {9F2BD574-71F9-4E26-B15C-35674ED90283}
+		{A6AEBEA2-B601-4523-81BF-AAE9D6794D50} = {A6AEBEA2-B601-4523-81BF-AAE9D6794D50}
+		{DBC1A0AB-8CA2-45C5-8975-18E8EA80E32F} = {DBC1A0AB-8CA2-45C5-8975-18E8EA80E32F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBuy.Api", "OnlineBuy.Api\OnlineBuy.Api.csproj", "{CE809834-EC9D-4BF6-BF1A-61203559D105}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8A143FCA-2D66-47C2-98B4-9213FE89B15E} = {8A143FCA-2D66-47C2-98B4-9213FE89B15E}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6AEBEA2-B601-4523-81BF-AAE9D6794D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AEBEA2-B601-4523-81BF-AAE9D6794D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AEBEA2-B601-4523-81BF-AAE9D6794D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AEBEA2-B601-4523-81BF-AAE9D6794D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC1A0AB-8CA2-45C5-8975-18E8EA80E32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC1A0AB-8CA2-45C5-8975-18E8EA80E32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC1A0AB-8CA2-45C5-8975-18E8EA80E32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC1A0AB-8CA2-45C5-8975-18E8EA80E32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2BD574-71F9-4E26-B15C-35674ED90283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2BD574-71F9-4E26-B15C-35674ED90283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2BD574-71F9-4E26-B15C-35674ED90283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2BD574-71F9-4E26-B15C-35674ED90283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A143FCA-2D66-47C2-98B4-9213FE89B15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A143FCA-2D66-47C2-98B4-9213FE89B15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A143FCA-2D66-47C2-98B4-9213FE89B15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A143FCA-2D66-47C2-98B4-9213FE89B15E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE809834-EC9D-4BF6-BF1A-61203559D105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE809834-EC9D-4BF6-BF1A-61203559D105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE809834-EC9D-4BF6-BF1A-61203559D105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE809834-EC9D-4BF6-BF1A-61203559D105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {207C531E-BEBB-44D9-91BF-E7A2E5976C2E}
+	EndGlobalSection
+EndGlobal

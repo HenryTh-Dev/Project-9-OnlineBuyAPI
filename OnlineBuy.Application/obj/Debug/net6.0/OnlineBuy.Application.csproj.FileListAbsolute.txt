@@ -1,0 +1,17 @@
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\bin\Debug\net6.0\OnlineBuy.Application.deps.json
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\bin\Debug\net6.0\OnlineBuy.Application.runtimeconfig.json
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\bin\Debug\net6.0\OnlineBuy.Application.dll
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\bin\Debug\net6.0\OnlineBuy.Application.pdb
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\bin\Debug\net6.0\OnlineBuy.Domain.dll
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\bin\Debug\net6.0\OnlineBuy.Domain.pdb
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\obj\Debug\net6.0\OnlineBuy.Application.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\obj\Debug\net6.0\OnlineBuy.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\obj\Debug\net6.0\OnlineBuy.Application.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\obj\Debug\net6.0\OnlineBuy.Application.AssemblyInfo.cs
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\obj\Debug\net6.0\OnlineBuy.Application.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\obj\Debug\net6.0\OnlineBuy.Application.csproj.CopyComplete
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\obj\Debug\net6.0\OnlineBuy.Application.dll
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\obj\Debug\net6.0\refint\OnlineBuy.Application.dll
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\obj\Debug\net6.0\OnlineBuy.Application.pdb
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\obj\Debug\net6.0\OnlineBuy.Application.genruntimeconfig.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Application\obj\Debug\net6.0\ref\OnlineBuy.Application.dll

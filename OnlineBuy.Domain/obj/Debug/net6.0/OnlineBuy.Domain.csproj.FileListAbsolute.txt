@@ -1,0 +1,14 @@
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\bin\Debug\net6.0\OnlineBuy.Domain.deps.json
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\bin\Debug\net6.0\OnlineBuy.Domain.runtimeconfig.json
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\bin\Debug\net6.0\OnlineBuy.Domain.dll
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\bin\Debug\net6.0\OnlineBuy.Domain.pdb
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\obj\Debug\net6.0\OnlineBuy.Domain.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\obj\Debug\net6.0\OnlineBuy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\obj\Debug\net6.0\OnlineBuy.Domain.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\obj\Debug\net6.0\OnlineBuy.Domain.AssemblyInfo.cs
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\obj\Debug\net6.0\OnlineBuy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\obj\Debug\net6.0\OnlineBuy.Domain.dll
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\obj\Debug\net6.0\refint\OnlineBuy.Domain.dll
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\obj\Debug\net6.0\OnlineBuy.Domain.pdb
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\obj\Debug\net6.0\OnlineBuy.Domain.genruntimeconfig.cache
+C:\Users\henry\source\repos\OnlineBuyAPI\OnlineBuy.Domain\obj\Debug\net6.0\ref\OnlineBuy.Domain.dll
